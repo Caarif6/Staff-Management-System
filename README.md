@@ -1,3 +1,3 @@
-Nmae: Mohamed Dhuux Caarif
+Name: Mohamed Dhuux Caarif
 ID: C1220685
 Class: CA225
